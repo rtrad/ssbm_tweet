@@ -1,0 +1,8 @@
+consumer_key='eI98WIDJsKpomPuy0QD41xYLH'
+consumer_secret='jrXMvmBYeDIUAWOv5J1mXaHE8doJbO1TslM6mHK4RDLu3JWIan'
+access_token='355852759-joOaSaGsnyhNa0BBq3WfjOR07o6LPtZj8zLj8B4J'
+access_token_secret='X2kjCbzfmhhmG9sO2dOCycjSSfYy92nuzV0heyBinzPUe'
+api_url='https://stream.twitter.com/1.1/statuses/filter.json'
+DB_URI='mongodb://localhost:27017/'
+DB_NAME='ssbm_tweet'
+DB_COLLECTION='tweets'
